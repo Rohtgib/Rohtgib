@@ -18,7 +18,7 @@ Roht(gib) is pretty versatile, here are some of the technologies it's proficient
 
 -   HTML, CSS, JavaScript
 -   Node.js, React, NextJS
--   MongoDB, MySQL, MSSQLS, Postgresql
+-   MongoDB, MySQL, MSSQLS, PostgreSQL
 -   Git, GitHub, VS Code
 -   Azure DevOps
 -   .NET, C#, C++
