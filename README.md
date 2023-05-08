@@ -1,16 +1,33 @@
-### Hi there 👋
+# Víctor "Rohtgib" 👩🏻‍🚀
 
-<!--
-**Rohtgib/Rohtgib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Víctor or Roht(gib) is a Software Engineering major and music producer whose passion is making things that makes his day to day activities more efficient.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of Roht(gib)'s current personal projects include:
+
+### Mettaur
+
+Mettaur is a multipurpose and self hosted Discord bot written in Python, it brings all the key features that you'll ever need for your Discord server regardless of the size.
+
+Repository: [https://github.com/Rohtgib/Mettaur](https://github.com/Rohtgib/Mettaur)
+
+## Technical Skills
+
+Roht(gib) is pretty versatile, here are some of its proficient in:
+
+-   HTML, CSS, JavaScript
+-   Node.js, React, NextJS
+-   MongoDB, MySQL, MSSQLS, Postgresql
+-   Git, GitHub, VS Code
+-   Azure DevOps
+-   .NET, C#, C++
+-   Python
+
+## Contact Information
+
+You can reach out to Roht(gib) thorugh Twitter at [https://www.twitter.com/Rohtgib](https://www.twitter.com/Rohtgib).
+
+## Contribution Guidelines
+
+If you're interested in contributing to any repositories owned by Roht(gib), feel free to fork any of the linked repositories and make changes as you see fit.
