@@ -1,6 +1,6 @@
 # Víctor "Rohtgib" 👩🏻‍🚀
 
-Víctor or Roht(gib) is a Software Engineering major and music producer whose passion is making things that makes his day to day activities more efficient.
+Víctor or Roht(gib) is a Software Engineering major and music producer whose passion is making things that make its day to day activities more efficient.
 
 ## Projects
 
@@ -14,7 +14,7 @@ Repository: [https://github.com/Rohtgib/Mettaur](https://github.com/Rohtgib/Mett
 
 ## Technical Skills
 
-Roht(gib) is pretty versatile, here are some of its proficient in:
+Roht(gib) is pretty versatile, here are some of the technologies it's proficient in:
 
 -   HTML, CSS, JavaScript
 -   Node.js, React, NextJS
@@ -30,4 +30,4 @@ You can reach out to Roht(gib) thorugh Twitter at [https://www.twitter.com/Rohtg
 
 ## Contribution Guidelines
 
-If you're interested in contributing to any repositories owned by Roht(gib), feel free to fork any of the linked repositories and make changes as you see fit.
+If you're interested in contributing to any project owned by Roht(gib), feel free to fork any of the linked repositories and make changes as you see fit.
