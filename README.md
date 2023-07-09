@@ -17,16 +17,13 @@ Repository: [https://github.com/Rohtgib/Mettaur](https://github.com/Rohtgib/Mett
 Roht(gib) is pretty versatile, here are some of the technologies it's proficient in:
 
 -   HTML, CSS, JavaScript
--   Node.js, React, NextJS
--   MongoDB, MySQL, MSSQLS, PostgreSQL
+-   Node.js, React, NextJS, Express
+-   MongoDB, MySQL, MSSQLS, PostgreSQL, SQLite
 -   Git, GitHub, VS Code
 -   Azure DevOps
 -   .NET, C#, C++
--   Python
-
-## Contact Information
-
-You can reach out to Roht(gib) thorugh Twitter at [https://www.twitter.com/Rohtgib](https://www.twitter.com/Rohtgib).
+-   Python, Flask
+-   Linux Shell, Bash
 
 ## Contribution Guidelines
 
