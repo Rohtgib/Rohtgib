@@ -10,7 +10,13 @@ Some of Roht(gib)'s current personal projects include:
 
 Mettaur is a multipurpose and self hosted Discord bot written in Python, it brings all the key features that you'll ever need for your Discord server regardless of the size.
 
-Repository: [https://github.com/Rohtgib/Mettaur](https://github.com/Rohtgib/Mettaur)
+Repository: [github.com/Rohtgib/Mettaur](https://github.com/Rohtgib/Mettaur)
+
+### ShopSage
+
+ShopSage is an open API for simple e-commerce, currently with Telegram integration.
+
+Repository: [github.com/Rohtgib/ShopSage](https://github.com/Rohtgib/ShopSage)
 
 ## Technical Skills
 
@@ -18,7 +24,7 @@ Roht(gib) is pretty versatile, here are some of the technologies it's proficient
 
 -   HTML, CSS, JavaScript
 -   Node.js, React, NextJS, Express
--   MongoDB, MySQL, MSSQLS, PostgreSQL, SQLite
+-   MongoDB, MySQL, MSSQLS, PostgreSQL, Supabase, SQLite
 -   Git, GitHub, VS Code
 -   Azure DevOps
 -   .NET, C#, C++
